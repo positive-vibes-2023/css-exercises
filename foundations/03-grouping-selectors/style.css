@@ -1,0 +1,12 @@
+/* Style.css */
+.black-bkg,.yellow-bkg{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.yellow-bkg{
+    background-color: #ffff00;
+}
+.black-bkg {
+    background-color: #000000;
+    color: #ffffff;
+}
